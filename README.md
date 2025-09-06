@@ -1,4 +1,4 @@
-# Parabank WebdriverIO Cucumber Javascrip
+# Parabank WebdriverIO Cucumber Javascri
 
 ## How to run tests
 
